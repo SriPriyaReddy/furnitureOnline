@@ -2,26 +2,27 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-## Development server
+#Summary
+This application is used to buy furniture online.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#DevWalkthrough
 
-## Code scaffolding
+This application is built using Angular 9. SPA approach is used making all the parts of the application as components, which can be reused. 
+Git commands are used for version control. 
+HTML semantics like <nav>,<hr> etc are used.
+Bootstrap Grid system row and columns, offset etc are implemented.
+Javascript: ES6 arrow functions,let,const,spread are used.
+CSS preprocessors : SCSS is used for imports,functions and variables.
+Typescript: Importing,exporting classes, datatypes specified.
+AJAX: Used HttpClient for making XHR request to get a locally stored JSON.
+Fetch API : fetch in javascript is used for making a fetch request.
+Services(Angular): Business logic which can be reused across all components like interacting with backend APIs are implemented.
+TSLint : tslint is used for making the code readability,maintainability
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Third Party Libraries::
+Angular Material
+Materialize(CSS framework based on material design)
+Material Icons
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
