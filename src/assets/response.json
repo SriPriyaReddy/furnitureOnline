@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "imgSrc": "assets/furniture.jpg",
+            "title": "Coombes",
+            "sub_title": "LOUNGE",
+            "price": "0"
+        },
+        {
+            "imgSrc": "assets/furniture2.jpg",
+            "title": "Keeves Set",
+            "sub_title": "TABLE & CHAIRS",
+            "price": "0"
+        },
+        {
+            "imgSrc": "assets/furniture3.jpg",
+            "title": "Nille",
+            "sub_title": "ARMCHAIR",
+            "price": "0"
+        },
+        {
+            "imgSrc": "assets/furniture4.jpg",
+            "title": "Momo",
+            "sub_title": "SHELVES",
+            "price": "0"
+        },
+        {
+            "imgSrc": "assets/furniture6.jpg",
+            "title": "Penemille",
+            "sub_title": "CHAIR",
+            "price": "0"
+        },
+        {
+            "imgSrc": null,
+            "title": "Kappu",
+            "sub_title": "SHELVES",
+            "price": "0"
+        },
+        {
+            "imgSrc": null,
+            "title": "grey",
+            "sub_title": null,
+            "price": "0"
+        }
+    ]
+}
